@@ -1,0 +1,18 @@
+.newcollection {
+display: flex;
+justify-content: flex-start;
+align-items: center;
+height: 10vh;
+background-color: white; 
+font-family: 'Arial', sans-serif; 
+text-align: center;
+}
+  
+.newcollection h1 {
+font-size: 2rem; 
+margin-left: 15px; 
+text-transform: uppercase; 
+letter-spacing: 2px; 
+animation: fadeIn 1s; 
+cursor: pointer;
+}

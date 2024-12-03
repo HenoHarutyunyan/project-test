@@ -1,0 +1,30 @@
+.footer {
+background-color: white; 
+color: #1E1A1A;             
+padding: 20px;           
+display: flex;           
+justify-content: space-between; 
+align-items: center;      
+}
+  
+.footer1, .footer2 {
+display: flex;           
+align-items: center;     
+}
+  
+.footer1 p, .footer2 p {
+margin: 0;               
+font-size: 15px;     
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+  
+.footer2 svg {
+font-size: 20px;        
+margin-left: 5px;       
+cursor: pointer;        
+transition: transform 0.3s; 
+}
+  
+.footer2 svg:hover {
+transform: scale(1.2);   
+}
