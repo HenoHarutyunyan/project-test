@@ -16,8 +16,8 @@ function AboutInfo(){
                     Icons, initially made of wood, then of gold and silver.
                     Jewelry, now also candles, which carry within the cosmic infinity.
                     The meaning of human existential importance. 
-                    <h4>Barev Hayastan</h4>
                     </p>
+                    <h2>sdsasa sada asw adasd</h2>
                 </div>
                 <div className='P1-image'>
                     <img src="./img/P1.jpg" alt="P1-img" />
